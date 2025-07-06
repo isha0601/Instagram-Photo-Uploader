@@ -30,6 +30,7 @@ Powered by **Python**, **Streamlit**, and **instagrapi**, it’s perfect for cre
 Clone this repo and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/instagram-photo-uploader-pro.git
+git clone https://github.com/yourusername/instagram-photo-uploader.git
 cd instagram-photo-uploader-pro
 pip install streamlit instagrapi pillow
+streamlit run app.py
